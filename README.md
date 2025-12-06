@@ -41,14 +41,15 @@ My work combines systems programming, cybersecurity research, automation pipelin
 - Microservices & containerized deployments (Docker)
 - Security-focused SaaS architecture with mobile/device constraints
 
-### **Mobile (Selective Scope)**
-- Flutter-based prototypes with offline-first design
-- Local AI inference on-device for privacy-preserving applications
-
 ### **DevOps, Reliability & Development Ecosystems**
 - CI/CD pipelines with secure build flows
 - Dependency hygiene, reproducible builds, environment isolation
 - Profiling, debugging, performance tracing across platforms  
+
+### **Mobile (Selective Scope)**
+- Flutter-based prototypes with offline-first design
+- Local AI inference on-device for privacy-preserving applications
+
 
 ---
 
